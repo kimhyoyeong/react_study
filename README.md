@@ -6,7 +6,7 @@
 >
 > 자식 컴포넌트에서는 props 를 받아오기만하고, 받아온 props 를 직접 수정 할 수 는 없습니다.
 
-https://user-images.githubusercontent.com/36122040/60410872-4bae6280-9c05-11e9-9453-e0c1d9cbef46.jpg
+<img src="https://user-images.githubusercontent.com/36122040/60410872-4bae6280-9c05-11e9-9453-e0c1d9cbef46.jpg" alt="">
 
 ```react
 <Child Value="Value" />
