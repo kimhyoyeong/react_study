@@ -304,7 +304,7 @@ export default counter;
 # LifeCycle API
 
 > 컴포넌트가 브라우저에서 나타날때, 사라질때, 그리고 업데이트 될 때, 호출되는 API 
-
+<img src="https://user-images.githubusercontent.com/36122040/60411020-db541100-9c05-11e9-923d-f30b41ca2b22.jpg" alt="">
 
 
 ## 컴포넌트 초기 생성 (Mounting)
