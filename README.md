@@ -6,7 +6,7 @@
 >
 > 자식 컴포넌트에서는 props 를 받아오기만하고, 받아온 props 를 직접 수정 할 수 는 없습니다.
 
-<img src="https://user-images.githubusercontent.com/36122040/60410946-8fa16780-9c05-11e9-97b2-6d5abdc112d9.jpg" alt="">
+<img src="https://user-images.githubusercontent.com/36122040/60410946-8fa16780-9c05-11e9-97b2-6d5abdc112d9.jpg" alt="" width="80%">
 
 ```react
 <Child Value="Value" />
@@ -146,7 +146,7 @@ export default MyName;
 >
 > 변경 할때는 언제나 setState() [컴포넌트 내장함수]라는 함수를 사용한다.
 
-이미지 필요
+<img src="https://user-images.githubusercontent.com/36122040/60410978-b2cc1700-9c05-11e9-93d2-4880c17d734d.jpg" alt="" width="80%">
 
 #### - state 정의
 
