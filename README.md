@@ -148,7 +148,7 @@ export default MyName;
 
 <img src="https://user-images.githubusercontent.com/36122040/60410978-b2cc1700-9c05-11e9-93d2-4880c17d734d.jpg" alt="" width="80%">
 
-#### - state 정의
+#### - state 정의 (객체형태로)
 
 ```react
 import React, { Component } from 'react';
